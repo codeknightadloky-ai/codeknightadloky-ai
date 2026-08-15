@@ -1,15 +1,285 @@
-# 💫 About Me:
-I am currently working on Java & Spring Boot microservices, Cloud-native apps (AWS/GCP), and Full-Stack development with React/Angular.<br>I am looking to collaborate on Java Full-Stack, Microservices, Cloud & DevOps projects.<br>I'm looking for help with Scalable system design & distributed architectures.<br>I am currently learning Kubernetes, Serverless, and Advanced Cloud Security.<br>Ask me about Java, Spring Boot, REST APIs, Microservices, AWS, React.<br>fun facts I enjoy converting monoliths into high-performance microservices 
+<!-- 
+██╗      ██████╗ ██╗  ██╗███████╗███████╗██╗  ██╗     █████╗ ██████╗ ██████╗  █████╗ ███╗   ██╗██╗  ██╗██╗
+██║     ██╔═══██╗██║ ██╔╝██╔════╝██╔════╝██║  ██║    ██╔══██╗██╔══██╗██╔══██╗██╔══██╗████╗  ██║██║ ██╔╝██║
+██║     ██║   ██║█████╔╝ █████╗  ███████╗███████║    ███████║██║  ██║██║  ██║███████║██╔██╗ ██║█████╔╝ ██║
+██║     ██║   ██║██╔═██╗ ██╔══╝  ╚════██║██╔══██║    ██╔══██║██║  ██║██║  ██║██╔══██║██║╚██╗██║██╔═██╗ ██║
+███████╗╚██████╔╝██║  ██╗███████╗███████║██║  ██║    ██║  ██║██████╔╝██████╔╝██║  ██║██║ ╚████║██║  ██╗██║
+╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝
+-->
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:667eea&height=220&section=header&text=LOKESH%20ADDANKI&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=◉%20Full%20Stack%20Developer%20◉%20Cloud%20Architect%20◉%20Microservices%20Expert%20◉&descSize=16&descAlignY=55" />
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lokesh-addanki-20a02a268/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codeknight.adloky@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codeknightadloky-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=codeknightadloky-ai&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeknightadloky-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=codeknightadloky-ai&color=667eea&style=for-the-badge&label=PROFILE+VIEWS)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+```bash
+┌─[lokesh@terminal]─[~/professional_identity]
+└──╼ $ whoami
+Lokesh Addanki • Full Stack Developer • Cloud Native Architect
+
+┌─[lokesh@terminal]─[~/achievements]
+└──╼ $ ls -la
+drwxr-xr-x  5 years of enterprise experience
+drwxr-xr-x  30+ production microservices delivered
+-rw-r--r--  40% performance improvement average
+-rw-r--r--  50+ technologies mastered
+-rw-r--r--  3 industry domains (Finance • Insurance • Automotive)
+```
+
+<div align="center">
+
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/📱_+1_(317)_794_1595-FF6B6B?style=for-the-badge&labelColor=2C3E50&color=E74C3C"/></td>
+<td><img src="https://img.shields.io/badge/📧_codeknight.adloky@gmail.com-4ECDC4?style=for-the-badge&labelColor=2C3E50&color=1ABC9C"/></td>
+</tr>
+</table>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codeknightadloky-ai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.com)
+
+</div>
+
+---
+
+## 🎯 Professional Identity
+
+I'm a **Full Stack Developer** with **5 years of battle-tested experience** architecting and delivering cloud-native microservices and responsive front-end applications across **finance, insurance, and automotive** domains. My expertise lies in **migrating legacy monoliths** to containerized **Node.js and Spring Boot services** on **Azure Kubernetes** and **GKE**, consistently achieving **30% increases in system uptime** and **25% reductions in latency**.
+
+I specialize in building **event-driven architectures** using **Kafka**, **Kinesis**, and **Pub/Sub**, designing **REST and GraphQL APIs** that scale to millions of requests, and leading **cross-functional teams** through **CI/CD pipeline transformations** using **GitHub Actions**, **Jenkins**, and **ArgoCD**. My work has accelerated release cadences by **50%** while maintaining **99.9% system reliability**.
+
+```mermaid
+mindmap
+  root((Lokesh Addanki<br/>Full Stack Expert))
+    Backend Engineering
+      Node.js & Express
+      Spring Boot & Microservices
+      Python Flask/Django
+      GraphQL & REST APIs
+      Event-Driven Architecture
+    Frontend Development
+      React & Angular
+      TypeScript & JavaScript
+      Responsive UI/UX
+      Material UI & Tailwind
+    Cloud & DevOps
+      AWS Lambda/EC2/S3
+      GCP GKE/Cloud Run
+      Azure Kubernetes
+      Docker & Helm
+      Terraform & Ansible
+      CI/CD Pipelines
+    Data Engineering
+      PostgreSQL & MongoDB
+      Kafka & Kinesis
+      BigQuery & Spark
+      Real-time Streaming
+    Observability
+      ELK Stack
+      CloudWatch
+      Dynatrace
+      Performance Tuning
+```
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+```typescript
+class LokeshAddanki implements FullStackEngineer {
+  private expertise: TechStack = {
+    languages: [
+      "Java 8+", "Python", "Node.js", 
+      "TypeScript", "Kotlin", "Scala", "Go"
+    ],
+    frameworks: {
+      backend: [
+        "Spring Boot", "Express.js", 
+        "Django", "Flask", "Ruby on Rails"
+      ],
+      frontend: [
+        "React 19", "Angular 11+", 
+        "Vue.js", "React Native"
+      ]
+    },
+    cloud: [
+      "AWS (Lambda, EC2, S3, ECS, Kinesis)",
+      "GCP (GKE, Cloud Run, Pub/Sub, BigQuery)",
+      "Azure (K8s, AD, CloudFormation)",
+      "PCF", "OpenShift"
+    ],
+    databases: [
+      "PostgreSQL", "MongoDB", "DynamoDB",
+      "Oracle", "DB2", "Cassandra"
+    ]
+  };
+  
+  public getSpecialty(): string[] {
+    return [
+      "Microservices Architecture",
+      "Event-Driven Systems",
+      "Cloud-Native Applications",
+      "CI/CD Pipeline Optimization",
+      "Performance Engineering"
+    ];
+  }
+}
+```
+
+</td>
+<td width="50%" valign="top">
+
+```python
+achievement_matrix = {
+    'experience_years': 5,
+    'projects_delivered': '30+',
+    'system_uptime_improvement': '30%',
+    'latency_reduction': '25%',
+    'deployment_time_reduction': '50%',
+    'page_load_improvement': '40%',
+    'user_engagement_boost': '20%',
+    
+    'domains': [
+        'Finance (Citigroup)',
+        'Insurance (Arthur J. Gallagher)',
+        'Automotive (Toyota Kirloskar)',
+        'Healthcare (Merck Group)'
+    ],
+    
+    'certifications': [
+        'Cloud Architecture',
+        'Kubernetes Administration',
+        'AWS Solutions Architect'
+    ],
+    
+    'leadership': {
+        'teams_mentored': '10+ engineers',
+        'architecture_reviews': 'Weekly',
+        'incident_response': 'On-call rotation lead'
+    }
+}
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Impact Metrics Dashboard
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🚀_30%25-System_Uptime_Increase-667eea?style=for-the-badge&labelColor=1a1b27"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/⚡_25%25-Latency_Reduction-764ba2?style=for-the-badge&labelColor=1a1b27"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/📦_50%25-Deployment_Time_Cut-58A6FF?style=for-the-badge&labelColor=1a1b27"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🎯_40%25-Page_Load_Optimization-1ABC9C?style=for-the-badge&labelColor=1a1b27"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/👥_20%25-User_Engagement_Growth-E74C3C?style=for-the-badge&labelColor=1a1b27"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🏆_99.9%25-System_Reliability-F39C12?style=for-the-badge&labelColor=1a1b27"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+```mermaid
+timeline
+    title Professional Journey
+    2020 : Software Developer at Merck Group
+         : Built RESTful microservices with Spring Boot
+         : Implemented CI/CD pipelines with Jenkins
+    2021 : Java Full Stack Developer at Toyota Kirloskar
+         : Migrated monoliths to microservices
+         : Deployed on GCP GKE and Cloud Run
+         : Built event-driven architecture with Pub/Sub
+    2023 : Full Stack Developer at Arthur J. Gallagher
+         : Architected scalable Node.js microservices
+         : Implemented Kafka streaming pipelines
+         : Achieved 25% performance gains
+    2024 : Full Stack Developer at Citigroup
+         : Designed Angular + Node.js full-stack apps
+         : Deployed on Azure Kubernetes with GitHub Actions
+         : Integrated MongoDB and GraphQL APIs
+         : Implemented Akamai CDN reducing load times by 40%
+    2025 : Pursuing Master's in Computer Science
+         : Lamar University
+         : Advanced Cloud Architecture & AI/ML
+```
+
+---
+
+## 💼 Professional Experience
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Full Stack Developer
+**`Citigroup • May 2024—Present`**
+
+<img src="https://img.shields.io/badge/🤖_Backend-Node.js_•_GraphQL_•_MongoDB-667eea?style=flat-square"/>
+<img src="https://img.shields.io/badge/🎨_Frontend-Angular_•_TypeScript-764ba2?style=flat-square"/>
+<img src="https://img.shields.io/badge/☁️_Cloud-Azure_K8s_•_GitHub_Actions-58A6FF?style=flat-square"/>
+
+- **Architected scalable microservices** using **Node.js**, **GraphQL**, and **MongoDB** with event-driven architecture, resulting in **30% increase in system uptime** and **25% reduction in latency**
+- **Designed and deployed** full-stack applications using **Angular**, **Node.js**, and **REST APIs** on **Azure Kubernetes**, implementing **OAuth2** and **RBAC** for enterprise security
+- **Optimized BigQuery data pipelines** for analytics workloads, improving query performance by **35%** through partitioning and clustering strategies
+- **Implemented Akamai CDN** setup for content delivery, achieving **40% reduction in page load times** and **20% increase in user engagement**
+- **Developed Linux/Unix shell scripts** for automated Azure K8s cluster deployment, reducing deployment time by **50%** and increasing system reliability by **30%**
+- **Built API-first microservices** with **Node.js** and **Python** supporting state transitions and business rule processing using **Drools**
+- **Established observability** using **CloudWatch** and **ELK stack**, creating dashboards that reduced incident resolution time by **45%**
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Full Stack Developer
+**`Arthur J. Gallagher & Co • Nov 2023—Apr 2024`**
+
+<img src="https://img.shields.io/badge/⚙️_Microservices-Spring_Boot_•_Kafka-1ABC9C?style=flat-square"/>
+<img src="https://img.shields.io/badge/📊_Data-Spark_•_BigQuery-E74C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/🔧_DevOps-Docker_•_Terraform-F39C12?style=flat-square"/>
+
+- **Developed microservices and REST APIs** using **Spring Boot**, **Spring MVC**, and **Node.js**, deployed on **AWS**, **GCP Cloud Run**, and **Kubernetes**
+- **Implemented event-driven systems** using **Apache Kafka**, **Kinesis**, and **JMS** to support real-time and high-volume data processing
+- **Built cloud-native architectures** ensuring high availability and scalability, achieving **99.9% uptime** across distributed systems
+- **Engineered data pipelines** using **Spark (Scala)**, **Hadoop**, **HDFS**, **Hive**, and **BigQuery** with **25% performance optimization** through distributed database tuning
+- **Established CI/CD pipelines** with **Docker**, **Kubernetes**, **Terraform**, **Jenkins**, and **GitHub**, automating infrastructure provisioning
+- **Applied Agile and TDD practices**, implementing comprehensive unit and integration testing using **JUnit** and **Mockito**
+- **Performed functional and integration testing**, collaborating with cross-functional teams to resolve defects and improve system observability
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏭 Java Full Stack Developer
+**`Toyota Kirloskar Motor • Dec 2021—Jun 2023`**
+
+<img src="https://img.shields.io/badge/🔐_Security-OAuth2_•_JWT-667eea?style=flat-square"/>
+<img src="https://img.shields.io/badge/🌐_APIs-REST_•_GraphQL-764ba2?style=flat-square"/>
+<img src="https://img.shields.io/badge/📡_Streaming-Pub/Sub_•_Kafka-58A6FF?style=flat-square"/>
+
+- **Developed and secured REST APIs** using **Node.js**, **GraphQL**, and **JSON Web Tokens**, integrated with **Azure K8s** and **GitHub Actions**, achieving **40% increase in API security** and **25% latency reduction**
+- **Built cloud-native Node.js services** using **AWS API Gateway**, **Lambda**, **EC2**, **S3**, and **DynamoDB** with load-balanced API deployments
+- **Modernized applications
