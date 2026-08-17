@@ -25,10 +25,10 @@ Lokesh Addanki • Full Stack Developer • Cloud Native Architect
 ┌─[lokesh@terminal]─[~/achievements]
 └──╼ $ ls -la
 drwxr-xr-x  5 years of enterprise experience
-drwxr-xr-x  30+ production microservices delivered
+drwxr-xr-x  4 enterprise employers across US and India
 -rw-r--r--  40% performance improvement average
--rw-r--r--  50+ technologies mastered
--rw-r--r--  3 industry domains (Finance • Insurance • Automotive)
+-rw-r--r--  175+ technologies across the stack
+-rw-r--r--  4 industry domains (Finance • Insurance • Automotive • Healthcare)
 ```
 
 <div align="center">
@@ -40,9 +40,8 @@ drwxr-xr-x  30+ production microservices delivered
 </tr>
 </table>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codeknightadloky-ai)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lokeshaddanki.com)
 
 </div>
 
@@ -52,7 +51,7 @@ drwxr-xr-x  30+ production microservices delivered
 
 I'm a **Full Stack Developer** with **5 years of battle-tested experience** architecting and delivering cloud-native microservices and responsive front-end applications across **finance, insurance, and automotive** domains. My expertise lies in **migrating legacy monoliths** to containerized **Node.js and Spring Boot services** on **Azure Kubernetes** and **GKE**, consistently achieving **30% increases in system uptime** and **25% reductions in latency**.
 
-I specialize in building **event-driven architectures** using **Kafka**, **Kinesis**, and **Pub/Sub**, designing **REST and GraphQL APIs** that scale to millions of requests, and leading **cross-functional teams** through **CI/CD pipeline transformations** using **GitHub Actions**, **Jenkins**, and **ArgoCD**. My work has accelerated release cadences by **50%** while maintaining **99.9% system reliability**.
+I specialize in building **event-driven architectures** using **Kafka**, **Kinesis**, and **Pub/Sub**, designing **REST and GraphQL APIs** that scale to millions of requests, and leading **cross-functional teams** through **CI/CD pipeline transformations** using **GitHub Actions**, **Jenkins**, and **ArgoCD**. My work has accelerated release cadences by **50%** while improving system reliability through health checks, retries, and fault-tolerant design.
 
 ```mermaid
 mindmap
@@ -95,8 +94,8 @@ mindmap
 class LokeshAddanki implements FullStackEngineer {
   private expertise: TechStack = {
     languages: [
-      "Java 8+", "Python", "Node.js", 
-      "TypeScript", "Kotlin", "Scala", "Go"
+      "Java 8+", "J2EE", "Python", "Node.js",
+      "TypeScript", "Kotlin", "Scala", "C/C++"
     ],
     frameworks: {
       backend: [
@@ -104,7 +103,7 @@ class LokeshAddanki implements FullStackEngineer {
         "Django", "Flask", "Ruby on Rails"
       ],
       frontend: [
-        "React 19", "Angular 11+", 
+        "React", "Angular 11+", 
         "Vue.js", "React Native"
       ]
     },
@@ -138,7 +137,6 @@ class LokeshAddanki implements FullStackEngineer {
 ```python
 achievement_matrix = {
     'experience_years': 5,
-    'projects_delivered': '30+',
     'system_uptime_improvement': '30%',
     'latency_reduction': '25%',
     'deployment_time_reduction': '50%',
@@ -153,13 +151,12 @@ achievement_matrix = {
     ],
     
     'certifications': [
-        'Cloud Architecture',
-        'Kubernetes Administration',
-        'AWS Solutions Architect'
+        'AWS Certified Developer - Associate',
+        'Oracle Certifications: Java Focused'
     ],
     
     'leadership': {
-        'teams_mentored': '10+ engineers',
+        'teams_mentored': 'cross-functional engineers',
         'architecture_reviews': 'Weekly',
         'incident_response': 'On-call rotation lead'
     }
@@ -196,7 +193,7 @@ achievement_matrix = {
 <img src="https://img.shields.io/badge/👥_20%25-User_Engagement_Growth-E74C3C?style=for-the-badge&labelColor=1a1b27"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/🏆_99.9%25-System_Reliability-F39C12?style=for-the-badge&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/🔐_40%25-API_Security_Increase-F39C12?style=for-the-badge&labelColor=1a1b27"/>
 </td>
 </tr>
 </table>
@@ -222,9 +219,9 @@ timeline
          : Deployed on Azure Kubernetes with GitHub Actions
          : Integrated MongoDB and GraphQL APIs
          : Implemented Akamai CDN reducing load times by 40%
-    2025 : Pursuing Master's in Computer Science
-         : Lamar University
-         : Advanced Cloud Architecture & AI/ML
+    2025 : Completed Master's in Computer Science
+         : Lamar University, Beaumont TX
+         : Aug 2023 - May 2025
 ```
 
 ---
@@ -244,11 +241,11 @@ timeline
 
 - **Architected scalable microservices** using **Node.js**, **GraphQL**, and **MongoDB** with event-driven architecture, resulting in **30% increase in system uptime** and **25% reduction in latency**
 - **Designed and deployed** full-stack applications using **Angular**, **Node.js**, and **REST APIs** on **Azure Kubernetes**, implementing **OAuth2** and **RBAC** for enterprise security
-- **Optimized BigQuery data pipelines** for analytics workloads, improving query performance by **35%** through partitioning and clustering strategies
+- **Optimized BigQuery data pipelines** for analytics workloads, improving reliability with health checks, retries, and fault-tolerant design patterns
 - **Implemented Akamai CDN** setup for content delivery, achieving **40% reduction in page load times** and **20% increase in user engagement**
 - **Developed Linux/Unix shell scripts** for automated Azure K8s cluster deployment, reducing deployment time by **50%** and increasing system reliability by **30%**
 - **Built API-first microservices** with **Node.js** and **Python** supporting state transitions and business rule processing using **Drools**
-- **Established observability** using **CloudWatch** and **ELK stack**, creating dashboards that reduced incident resolution time by **45%**
+- **Established observability** using **CloudWatch** and **ELK stack**, creating dashboards and performing root cause analysis to reduce incident resolution time
 
 </td>
 <td width="50%" valign="top">
@@ -262,7 +259,7 @@ timeline
 
 - **Developed microservices and REST APIs** using **Spring Boot**, **Spring MVC**, and **Node.js**, deployed on **AWS**, **GCP Cloud Run**, and **Kubernetes**
 - **Implemented event-driven systems** using **Apache Kafka**, **Kinesis**, and **JMS** to support real-time and high-volume data processing
-- **Built cloud-native architectures** ensuring high availability and scalability, achieving **99.9% uptime** across distributed systems
+- **Built cloud-native architectures** ensuring high availability and scalability across distributed systems
 - **Engineered data pipelines** using **Spark (Scala)**, **Hadoop**, **HDFS**, **Hive**, and **BigQuery** with **25% performance optimization** through distributed database tuning
 - **Established CI/CD pipelines** with **Docker**, **Kubernetes**, **Terraform**, **Jenkins**, and **GitHub**, automating infrastructure provisioning
 - **Applied Agile and TDD practices**, implementing comprehensive unit and integration testing using **JUnit** and **Mockito**
@@ -282,4 +279,72 @@ timeline
 
 - **Developed and secured REST APIs** using **Node.js**, **GraphQL**, and **JSON Web Tokens**, integrated with **Azure K8s** and **GitHub Actions**, achieving **40% increase in API security** and **25% latency reduction**
 - **Built cloud-native Node.js services** using **AWS API Gateway**, **Lambda**, **EC2**, **S3**, and **DynamoDB** with load-balanced API deployments
-- **Modernized applications
+- **Modernized legacy applications** built on **Struts (MVC)** and **Spring Framework** (IOC, JDBC, ORM, AOP), refactoring monoliths into **Spring Boot microservices**
+- **Delivered responsive front ends** with **AngularJS/Angular 11+**, **React.js**, **HTML5**, **CSS3**, **jQuery**, **JSF**, and the **MEAN stack**
+- **Implemented event-driven architecture** using **GCP Pub/Sub** for real-time data processing, with observability via **ELK Stack** and **CloudWatch**
+- **Built CI/CD pipelines** with **GitHub Actions**, **Gradle**, **Jenkins**, and **CloudFormation**, cutting deployment time by **50%** and raising system reliability by **30%**
+- **Developed Python microservices** for data processing, rules execution, and **ML service integration**
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 Software Developer
+**`Merck Group • Bengaluru, India • Dec 2020—Nov 2021`**
+
+<img src="https://img.shields.io/badge/⚛️_Frontend-React.js_•_AngularJS-1ABC9C?style=flat-square"/>
+<img src="https://img.shields.io/badge/🧬_Domain-Healthcare_Analytics-E74C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/🔁_Messaging-Kafka_•_OAuth2-F39C12?style=flat-square"/>
+
+- **Built RESTful microservices and APIs** using **Spring Boot**, **Jersey**, **JAX-RS**, **Apache CXF**, **Hibernate**, and **JPA** for **healthcare analytics systems**
+- **Developed responsive front-end UIs** using **React.js**, **AngularJS**, **JavaScript**, **HTML5**, **CSS3**, **jQuery**, and **AJAX** with cross-browser compatibility
+- **Implemented API management** via **AWS API Gateway** with request validation, throttling, and secure **OAuth2**-based access control
+- **Implemented asynchronous messaging** using **Kafka** producer-consumer flows for distributed service communication
+- **Improved system reliability** with health checks, retries, and circuit breakers, plus observability through **CloudWatch**, **ELK**, and distributed tracing
+- **Automated infrastructure provisioning** with **AWS CloudFormation** and **Terraform** for consistent multi-environment deployments
+- **Established CI/CD pipelines** using **Git**, **Jenkins**, **Maven**, **Gradle**, **Nexus**, **Docker**, and **AWS** deployments
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Education & Certifications
+
+<div align="center">
+
+<table>
+<tr>
+<td valign="top">
+
+**🎓 Master of Science, Computer Science**
+`Lamar University • Beaumont, TX`
+`Aug 2023 — May 2025`
+
+</td>
+<td valign="top">
+
+**📜 Certifications**
+- AWS Certified Developer – Associate
+- Oracle Certifications: Java Focused
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌐 Let's Build Something
+
+[![Portfolio](https://img.shields.io/badge/lokeshaddanki.com-Visit_Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lokeshaddanki.com)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-1ABC9C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codeknight.adloky@gmail.com)
+
+<img src="https://img.shields.io/badge/📍_Chicago,_IL-Open_to_opportunities-2C3E50?style=for-the-badge"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:1a1b27,100:0d1117&height=120&section=footer" />
+
+</div>
